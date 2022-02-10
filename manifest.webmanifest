@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "image/icon/Momentum-Apple.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "image/icon/Momentum-android.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
